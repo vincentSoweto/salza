@@ -1,1 +1,2 @@
-com\salza\SalzaApplicationTests.class
+org\vaadin\example\AbstractViewTest.class
+org\vaadin\example\MainViewIT.class

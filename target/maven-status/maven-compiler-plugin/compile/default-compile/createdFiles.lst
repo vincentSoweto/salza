@@ -1,1 +1,4 @@
-com\salza\SalzaApplication.class
+org\vaadin\example\Application.class
+org\vaadin\example\views\Login.class
+org\vaadin\example\GreetService.class
+org\vaadin\example\MainView.class
